@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BusyName13
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Nothing
 - 💞️ I’m looking to collaborate on nobody
 - 📫 How to reach me --
 
